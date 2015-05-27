@@ -9,7 +9,6 @@ import com.nadsoft.networking.Fragments.DrawerFragment;
 
 
 public class MainActivity extends AppCompatActivity {
-//11
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,3 +19,4 @@ public class MainActivity extends AppCompatActivity {
         drawerFragment.setUp(R.id.fragment,(DrawerLayout)findViewById(R.id.drawerLayout),(Toolbar)findViewById(R.id.main_tool_bar));
     }
 }
+//123ddfsdfdf
